@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-accurate-vinyl-inc.dream-surge.com/sitemap-index.xml

@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Accurate Vinyl Inc.",
+    "phone": "+17193373504",
+    "category": "siding contractor",
+    "city": "Colorado Springs",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Siding Done Right. Period.",
+      "heroSubline": "Protecting Colorado Springs homes with durable, beautiful siding. Expert installation and unmatched service.",
+      "aboutTitle": "Your Trusted Siding Partner in Colorado Springs",
+      "aboutText": [
+        "Accurate Vinyl Inc. was founded over a decade ago with a simple mission: to provide Colorado Springs homeowners with top-quality siding solutions and unparalleled customer service. We saw a need for a contractor who understood the unique challenges of our local climate and could deliver lasting results.",
+        "Our approach is straightforward: we listen to your needs, assess your property, and recommend the best siding options for your budget and style. We believe in honest communication, transparent pricing, and meticulous workmanship. We stand behind every project we undertake.",
+        "As a local company, we're deeply invested in the Colorado Springs community. We support local charities and participate in community events. We're proud to contribute to the beauty and resilience of our city, one siding project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Colorado Springs' climate and housing styles, ensuring the right siding for your home."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium vinyl siding from trusted manufacturers, built to withstand hail, UV rays, and extreme temperatures."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team provides precise, professional installation for long-lasting performance and curb appeal."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We're committed to exceeding your expectations with exceptional service and a warranty you can rely on."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding consultation. Discover the difference quality siding can make."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Protect and beautify your home with expert vinyl siding installation.",
+        "description": "Vinyl siding is a popular choice for Colorado Springs homeowners due to its durability, affordability, and low maintenance. At Accurate Vinyl Inc., we specialize in the professional installation of high-quality vinyl siding that can withstand our harsh climate. From the initial consultation to the final inspection, we ensure every detail is handled with precision and care. We work with a variety of vinyl siding styles and colors to match your home's architecture and your personal taste. \n\nOur installation process includes a thorough inspection of your existing siding, proper preparation of the wall surface, and precise installation of the new siding. We pay close attention to detail to ensure a weather-tight seal and a flawless finish. We also offer a variety of trim and accessories to complete the look of your home.\n\nWe understand that investing in new siding is a significant decision. That's why we provide transparent pricing, honest advice, and a commitment to your complete satisfaction. Let us help you protect and enhance your home with beautiful, durable vinyl siding.",
+        "process": [
+          "Step 1: Free Consultation and Estimate – We assess your needs and provide a detailed, transparent quote.",
+          "Step 2: Material Selection – Choose from a wide range of colors, styles, and textures to match your vision.",
+          "Step 3: Professional Installation – Our experienced team ensures precise and efficient installation.",
+          "Step 4: Final Inspection – We conduct a thorough inspection to guarantee your complete satisfaction."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Reduced Maintenance",
+          "Improved Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding installation take?",
+            "answer": "The duration of installation depends on the size and complexity of the project. We'll provide a realistic timeline during the initial consultation, typically ranging from a few days to a week."
+          },
+          {
+            "question": "What is the lifespan of vinyl siding?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 30-40 years, making it a durable and cost-effective choice for Colorado Springs homeowners."
+          },
+          {
+            "question": "Does vinyl siding require painting?",
+            "answer": "No, vinyl siding is virtually maintenance-free and does not require painting. It's resistant to fading, cracking, and peeling, saving you time and money in the long run."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Fast, reliable siding repair to protect your home from the elements.",
+        "description": "Colorado Springs weather can be brutal on siding. Hail storms, high winds, and extreme temperature fluctuations can cause cracks, dents, and other damage. Accurate Vinyl Inc. offers comprehensive siding repair services to restore the integrity and appearance of your home. We handle all types of siding repairs, from minor cracks and dents to major storm damage.\n\nOur experienced team will assess the damage, provide a clear explanation of the repair options, and execute the repairs with precision and care. We use high-quality materials and proven techniques to ensure lasting results. We understand the importance of a properly functioning siding system in protecting your home from moisture, pests, and the elements.\n\nDon't let damaged siding compromise the value and safety of your home. Contact Accurate Vinyl Inc. for prompt and reliable siding repair services. We'll help you keep your home protected and looking its best.",
+        "process": [
+          "Step 1: Damage Assessment – We thoroughly inspect your siding to identify the extent of the damage.",
+          "Step 2: Repair Plan – We develop a customized repair plan that addresses your specific needs and budget.",
+          "Step 3: Expert Repair – Our skilled technicians execute the repairs with precision and attention to detail.",
+          "Step 4: Quality Assurance – We conduct a final inspection to ensure the repairs meet our high standards."
+        ],
+        "benefits": [
+          "Prevents Further Damage",
+          "Maintains Home Value",
+          "Improves Curb Appeal",
+          "Extends Siding Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Common signs of siding damage include cracks, dents, loose panels, and water stains. If you notice any of these issues, it's important to contact a professional for an inspection."
+          },
+          {
+            "question": "Can you match the existing color of my siding?",
+            "answer": "Yes, we have access to a wide range of siding colors and can accurately match the existing color of your siding to ensure a seamless repair."
+          },
+          {
+            "question": "How long does siding repair take?",
+            "answer": "The duration of siding repair depends on the extent of the damage. We'll provide a realistic timeline during the initial assessment."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Upgrade your home with durable, energy-efficient siding replacement.",
+        "description": "When siding is beyond repair, replacement is the best option. Accurate Vinyl Inc. offers comprehensive siding replacement services to transform the look and performance of your home. We work with a variety of siding materials, including vinyl, fiber cement, and wood, to meet your specific needs and preferences. We'll guide you through the selection process, helping you choose the right siding for your home's architecture, your budget, and your desired aesthetic.\n\nOur siding replacement process includes the removal of your old siding, a thorough inspection of the wall surface, proper preparation for the new siding, and precise installation. We pay close attention to detail to ensure a weather-tight seal and a flawless finish. We also offer a variety of trim and accessories to complete the look of your home.\n\nInvesting in new siding is a smart way to protect your home, increase its value, and enhance its curb appeal. Contact Accurate Vinyl Inc. for a free consultation and estimate.",
+        "process": [
+          "Step 1: Consultation and Design – We help you choose the perfect siding to match your style and budget.",
+          "Step 2: Old Siding Removal – We safely and efficiently remove your old siding.",
+          "Step 3: New Siding Installation – Our expert team ensures precise and professional installation.",
+          "Step 4: Clean-Up and Inspection – We leave your property clean and conduct a final inspection."
+        ],
+        "benefits": [
+          "Enhanced Home Value",
+          "Improved Energy Efficiency",
+          "Increased Curb Appeal",
+          "Long-Lasting Protection"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need siding replacement?",
+            "answer": "Signs that you may need siding replacement include extensive damage, rotting, warping, and fading. If your siding is more than 20 years old, it may also be time to consider replacement."
+          },
+          {
+            "question": "What types of siding do you offer?",
+            "answer": "We offer a variety of siding options, including vinyl, fiber cement, and wood. We'll help you choose the right siding for your home based on your budget, style, and performance requirements."
+          },
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size and complexity of the project. We'll provide a realistic timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-services",
+        "name": "Soffit and Fascia Services",
+        "shortDescription": "Protect your roof and improve ventilation with our soffit and fascia services.",
+        "description": "Soffit and fascia play a crucial role in protecting your roof and preventing moisture damage. Accurate Vinyl Inc. offers comprehensive soffit and fascia services, including installation, repair, and replacement. We use high-quality materials and proven techniques to ensure lasting performance and protection.\n\nOur soffit and fascia installation process includes a thorough inspection of your roofline, proper preparation of the surface, and precise installation of the new soffit and fascia. We pay close attention to detail to ensure a weather-tight seal and a seamless finish. We also offer a variety of colors and styles to match your home's architecture.\n\nProperly functioning soffit and fascia are essential for maintaining the integrity of your roof and preventing costly repairs. Contact Accurate Vinyl Inc. for reliable soffit and fascia services.",
+        "process": [
+          "Step 1: Inspection and Assessment – We evaluate your soffit and fascia to determine the best course of action.",
+          "Step 2: Material Selection – Choose from a variety of styles and colors to complement your home.",
+          "Step 3: Professional Installation – Our skilled team ensures precise and efficient installation.",
+          "Step 4: Quality Assurance – We conduct a final inspection to guarantee your satisfaction."
+        ],
+        "benefits": [
+          "Protects Roof from Moisture",
+          "Improves Ventilation",
+          "Prevents Pest Infestation",
+          "Enhances Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Together, they protect your roof from moisture and pests."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Signs that you may need soffit and fascia repair include rotting, warping, and pest infestation. If you notice any of these issues, it's important to contact a professional for an inspection."
+          },
+          {
+            "question": "What materials do you use for soffit and fascia?",
+            "answer": "We offer a variety of materials for soffit and fascia, including vinyl, aluminum, and wood. We'll help you choose the right material for your home based on your budget and performance requirements."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-accessories",
+        "name": "Trim and Accessories Installation",
+        "shortDescription": "Complete your siding project with professional trim and accessories installation.",
+        "description": "The finishing touches can make all the difference in the appearance and performance of your siding. Accurate Vinyl Inc. offers professional trim and accessories installation services to complete your siding project with style and precision. We work with a variety of trim styles, including corner posts, window trim, door trim, and more. We also offer a range of accessories, such as gutters, downspouts, and shutters, to enhance the look and functionality of your home.\n\nOur trim and accessories installation process includes a careful assessment of your home's architecture, precise measurements, and expert installation. We pay close attention to detail to ensure a seamless finish and a weather-tight seal. We also offer a variety of colors and styles to match your siding and your personal taste.\n\nLet Accurate Vinyl Inc. help you complete your siding project with professional trim and accessories installation. We'll ensure that your home looks its best and is protected from the elements.",
+        "process": [
+          "Step 1: Design Consultation – We help you select the perfect trim and accessories to complement your siding.",
+          "Step 2: Precise Measurements – We take accurate measurements to ensure a perfect fit.",
+          "Step 3: Expert Installation – Our skilled team ensures precise and professional installation.",
+          "Step 4: Final Inspection – We conduct a thorough inspection to guarantee your satisfaction."
+        ],
+        "benefits": [
+          "Enhances Curb Appeal",
+          "Protects Against Moisture",
+          "Adds Value to Your Home",
+          "Completes Your Siding Project"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim do you offer?",
+            "answer": "We offer a variety of trim styles, including corner posts, window trim, door trim, and more. We'll help you choose the right trim for your home based on your style and performance requirements."
+          },
+          {
+            "question": "Can you match the color of my trim to my siding?",
+            "answer": "Yes, we can match the color of your trim to your siding to create a cohesive look for your home."
+          },
+          {
+            "question": "What are the benefits of installing new gutters and downspouts?",
+            "answer": "New gutters and downspouts can help protect your home from water damage by directing rainwater away from your foundation. They can also prevent erosion and improve the overall appearance of your home."
+          }
+        ]
+      },
+      {
+        "slug": "hail-damage-assessment",
+        "name": "Hail Damage Assessment",
+        "shortDescription": "Comprehensive hail damage assessments for siding in Colorado Springs.",
+        "description": "Colorado Springs is no stranger to hailstorms, which can wreak havoc on your home's siding. Accurate Vinyl Inc. provides thorough hail damage assessments to identify and document any damage caused by these storms. Our experienced team will carefully inspect your siding, looking for dents, cracks, and other signs of hail damage. We'll provide you with a detailed report of our findings, including photographs and a repair estimate.\n\nWe understand the stress and inconvenience that hail damage can cause. That's why we work closely with insurance companies to ensure that your claim is processed quickly and efficiently. We'll handle all the paperwork and communication, so you can focus on getting your home back to normal.\n\nIf you suspect that your siding has been damaged by hail, contact Accurate Vinyl Inc. for a comprehensive hail damage assessment. We'll help you determine the extent of the damage and develop a plan to restore your home's protection and appearance.",
+        "process": [
+          "Step 1: Schedule an Assessment – Contact us to schedule a convenient time for a hail damage assessment.",
+          "Step 2: Thorough Inspection – Our experienced team will carefully inspect your siding for hail damage.",
+          "Step 3: Detailed Report – We'll provide you with a detailed report of our findings, including photographs and a repair estimate.",
+          "Step 4: Insurance Assistance – We'll work with your insurance company to ensure that your claim is processed quickly and efficiently."
+        ],
+        "benefits": [
+          "Accurate Damage Assessment",
+          "Detailed Report and Estimate",
+          "Insurance Claim Assistance",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of hail damage on siding?",
+            "answer": "Common signs of hail damage on siding include dents, cracks, chips, and missing pieces. The damage may be subtle, so it's important to have your siding inspected by a professional after a hailstorm."
+          },
+          {
+            "question": "How long do I have to file a hail damage claim?",
+            "answer": "The deadline for filing a hail damage claim varies depending on your insurance policy. It's important to contact your insurance company as soon as possible after a hailstorm to understand your policy's requirements."
+          },
+          {
+            "question": "Will filing a hail damage claim increase my insurance rates?",
+            "answer": "Filing a hail damage claim may or may not increase your insurance rates, depending on your insurance company and your policy's terms. Contact your insurance company for more information."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Colorado Springs",
+        "slug": "colorado-springs-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. is proud to offer our expert siding services to homeowners and businesses in Colorado Springs. We understand the unique challenges that Colorado's climate presents, from intense sun exposure to heavy snowfalls. That's why we use only the highest quality vinyl siding materials that are designed to withstand the elements and provide lasting protection for your property.\n\nOur team of experienced professionals is committed to providing exceptional workmanship and customer service. Whether you're looking to upgrade your home's curb appeal, improve energy efficiency, or protect your investment, Accurate Vinyl Inc. is here to help. We offer a wide range of siding styles and colors to choose from, ensuring that you find the perfect fit for your home's aesthetic.",
+        "localContext": "Colorado Springs is a vibrant city nestled at the foot of the Rocky Mountains, known for its stunning natural beauty and outdoor recreational opportunities. From the iconic Garden of the Gods to the majestic Pikes Peak, residents enjoy a high quality of life in this thriving community.",
+        "nearbyAreas": [
+          "Manitou Springs",
+          "Fountain",
+          "Monument"
+        ]
+      },
+      {
+        "city": "Manitou Springs",
+        "slug": "manitou-springs-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. extends its superior siding installation and repair services to the charming town of Manitou Springs. Known for its historic architecture and natural mineral springs, Manitou Springs requires siding solutions that are both aesthetically pleasing and durable. We offer a variety of siding options that complement the town's unique character.\n\nWe're committed to providing Manitou Springs residents with top-notch service and quality craftsmanship. Our team will work closely with you to select the perfect siding for your home, ensuring it not only looks great but also provides long-lasting protection against the elements.",
+        "localContext": "Manitou Springs is a quaint mountain town renowned for its natural mineral springs and historic charm, attracting tourists and residents alike with its unique atmosphere and stunning scenery.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Cascade",
+          "Green Mountain Falls"
+        ]
+      },
+      {
+        "city": "Fountain",
+        "slug": "fountain-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. is dedicated to serving the growing community of Fountain with reliable and affordable siding services. We understand the needs of Fountain homeowners and offer a wide range of siding options to suit any budget and style. From new installations to repairs and replacements, we've got you covered.\n\nWe pride ourselves on our commitment to customer satisfaction and our attention to detail. Our experienced team will ensure that your siding project is completed to the highest standards, providing you with lasting protection and enhanced curb appeal.",
+        "localContext": "Fountain is a rapidly growing city located south of Colorado Springs, offering a family-friendly atmosphere and a strong sense of community.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Security-Widefield",
+          "Peyton"
+        ]
+      },
+      {
+        "city": "Monument",
+        "slug": "monument-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. provides expert siding services to the residents of Monument, ensuring their homes are protected and beautiful. We understand the importance of quality siding in Monument's climate and offer a variety of durable and stylish options to suit any home. Our experienced team is dedicated to providing exceptional service and craftsmanship.\n\nWhether you're building a new home or upgrading your existing siding, Accurate Vinyl Inc. is here to help. We offer free consultations and estimates, and we'll work closely with you to find the perfect siding solution for your needs.",
+        "localContext": "Monument is a picturesque town located north of Colorado Springs, known for its scenic beauty and close-knit community.",
+        "nearbyAreas": [
+          "Palmer Lake",
+          "Colorado Springs",
+          "Woodmoor"
+        ]
+      },
+      {
+        "city": "Security-Widefield",
+        "slug": "security-widefield-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. is proud to offer its siding expertise to the Security-Widefield area. We understand the diverse needs of homeowners in this community and provide a wide range of siding options to fit any budget and style. From classic vinyl to modern composite materials, we have the perfect solution for your home.\n\nOur team of skilled installers is committed to providing exceptional workmanship and customer service. We'll work closely with you throughout the entire process, from initial consultation to final inspection, to ensure your complete satisfaction.",
+        "localContext": "Security-Widefield is a vibrant community located south of Colorado Springs, offering a mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Fountain",
+          "Colorado Springs",
+          "Stratmoor"
+        ]
+      },
+      {
+        "city": "Palmer Lake",
+        "slug": "palmer-lake-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. is dedicated to serving the residents of Palmer Lake with top-quality siding services. We understand the unique challenges of siding in a mountain environment and offer a variety of durable and weather-resistant options to protect your home. Our experienced team is committed to providing exceptional service and craftsmanship.\n\nWhether you're looking to upgrade your home's curb appeal or protect it from the elements, Accurate Vinyl Inc. is here to help. We offer free consultations and estimates, and we'll work closely with you to find the perfect siding solution for your needs.",
+        "localContext": "Palmer Lake is a charming mountain town located north of Colorado Springs, known for its scenic beauty and outdoor recreational opportunities.",
+        "nearbyAreas": [
+          "Monument",
+          "Woodmoor",
+          "Gleneagle"
+        ]
+      },
+      {
+        "city": "Woodmoor",
+        "slug": "woodmoor-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. provides expert siding services to homeowners in Woodmoor, ensuring their homes are both beautiful and well-protected. We understand the importance of quality siding in Woodmoor's climate and offer a variety of durable and stylish options to suit any home. Our experienced team is dedicated to providing exceptional service and craftsmanship.\n\nWhether you're building a new home or upgrading your existing siding, Accurate Vinyl Inc. is here to help. We offer free consultations and estimates, and we'll work closely with you to find the perfect siding solution for your needs.",
+        "localContext": "Woodmoor is a residential community located north of Colorado Springs, known for its large lots and wooded areas.",
+        "nearbyAreas": [
+          "Monument",
+          "Palmer Lake",
+          "Gleneagle"
+        ]
+      },
+      {
+        "city": "Cascade",
+        "slug": "cascade-co",
+        "state": "CO",
+        "content": "Accurate Vinyl Inc. is pleased to offer siding services to the residents of Cascade, CO. We understand the unique architectural styles and environmental considerations of this area, and we're committed to providing siding solutions that are both aesthetically pleasing and highly durable. Our team is experienced in working with a variety of siding materials, ensuring a perfect fit for your Cascade home.\n\nWe prioritize customer satisfaction and strive to exceed expectations with every project. From consultation to installation, we'll guide you through the process, ensuring a seamless and stress-free experience. Trust Accurate Vinyl Inc. to protect and enhance your Cascade home with our expert siding services.",
+        "localContext": "Cascade is a small, picturesque town nestled in the mountains near Pikes Peak, known for its natural beauty and historic charm.",
+        "nearbyAreas": [
+          "Green Mountain Falls",
+          "Chipita Park",
+          "Manitou Springs"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Accurate Vinyl did an amazing job installing new siding on our home in Briargate! The crew was professional, efficient, and the finished product looks fantastic. They even cleaned up meticulously afterward. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Siding Repair Services",
+        "text": "We had some hail damage to our siding after that crazy storm last summer. Accurate Vinyl was quick to respond and repaired the damage seamlessly. You can't even tell where the repairs were made! Great service.",
+        "date": "2024-11-02"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Soffit and Fascia Services",
+        "text": "We needed our soffit and fascia replaced and Accurate Vinyl provided exceptional service. They were knowledgeable, helpful in choosing the right materials, and the installation was flawless. Our home looks so much better!",
+        "date": "2024-09-20"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "From start to finish, the team at Accurate Vinyl made our siding replacement project a breeze. They were professional, communicative, and delivered exactly what they promised. Our house looks brand new!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Trim and Accessories Installation",
+        "text": "Accurate Vinyl installed new trim and gutters on our home and did a fantastic job. The attention to detail was impressive, and they really took the time to make sure everything was perfect. Would definitely use them again.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Hail Damage Assessment",
+        "text": "After a recent hailstorm, I was worried about potential damage to my siding. Accurate Vinyl came out and provided a thorough assessment. They were honest, professional, and helped me navigate the insurance claim process. Highly recommend their services!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Accurate Vinyl Inc. | Siding Colorado Springs",
+        "description": "Expert siding installation & repair in Colorado Springs, CO. Vinyl, fiber cement, & more. Protect your home with quality siding."
+      },
+      "about": {
+        "title": "About Accurate Vinyl Inc. | Siding Contractor",
+        "description": "Learn about Accurate Vinyl Inc., your trusted siding contractor in Colorado Springs. Quality siding solutions and exceptional service."
+      },
+      "services": {
+        "title": "Siding Services | Accurate Vinyl Inc.",
+        "description": "Comprehensive siding services in Colorado Springs. Installation, repair, replacement, and more. Get a free estimate today!"
+      },
+      "contact": {
+        "title": "Contact Accurate Vinyl Inc.",
+        "description": "Contact Accurate Vinyl Inc. for all your siding needs in Colorado Springs. Get a free quote and expert advice."
+      },
+      "reviews": {
+        "title": "Accurate Vinyl Inc. Reviews",
+        "description": "See what our customers are saying about Accurate Vinyl Inc. Read real reviews and testimonials from satisfied homeowners in Colorado Springs."
+      },
+      "service-areas": {
+        "title": "Siding Service Areas",
+        "description": "Accurate Vinyl Inc. provides siding services throughout Colorado Springs and surrounding areas. Find out if we serve your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-services": "/images/service-soffit-and-fascia-services.webp",
+      "trim-and-accessories": "/images/service-trim-and-accessories.webp",
+      "hail-damage-assessment": "/images/service-hail-damage-assessment.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-services": {
+        "src": "/images/service-soffit-and-fascia-services.webp",
+        "srcset": "/images/service-soffit-and-fascia-services-400w.webp 400w, /images/service-soffit-and-fascia-services-800w.webp 800w, /images/service-soffit-and-fascia-services-1200w.webp 1200w, /images/service-soffit-and-fascia-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-accessories": {
+        "src": "/images/service-trim-and-accessories.webp",
+        "srcset": "/images/service-trim-and-accessories-400w.webp 400w, /images/service-trim-and-accessories-800w.webp 800w, /images/service-trim-and-accessories-1200w.webp 1200w, /images/service-trim-and-accessories.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hail-damage-assessment": {
+        "src": "/images/service-hail-damage-assessment.webp",
+        "srcset": "/images/service-hail-damage-assessment-400w.webp 400w, /images/service-hail-damage-assessment-800w.webp 800w, /images/service-hail-damage-assessment-1200w.webp 1200w, /images/service-hail-damage-assessment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
